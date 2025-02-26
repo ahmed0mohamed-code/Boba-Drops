@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(114, 173, 115);
+    margin: 5%;
+    text-align: center;
+}
+
+h1{
+    padding: 5px;
+    color: rgb(0, 255, 34);
+}
+h2{
+    color: rgb(226, 231, 73);
+}
+
+p{
+    color: whitesmoke;
+    width: 60%;
+    margin: auto;
+    font-size: 25px;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    padding: 5px;
+}
+
+
+
